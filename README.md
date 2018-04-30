@@ -1,2 +1,2 @@
 # hello-world
-For tutorial purpose.
+For tutorial purpose only.
